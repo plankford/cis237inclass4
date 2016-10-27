@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenericLinkList.cs" />
+    <Compile Include="IGenericLinkList.cs" />
     <Compile Include="IIntegerLinkList.cs" />
     <Compile Include="IntegerLinkList.cs" />
     <Compile Include="Program.cs" />
